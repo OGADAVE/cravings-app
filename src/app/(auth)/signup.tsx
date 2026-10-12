@@ -80,7 +80,7 @@ export default function SignupScreen() {
         <Text style={styles.label}>Full Name</Text>
         <TextInput
           style={styles.input}
-          placeholder="John Doe"
+          placeholder="David Obuo"
           placeholderTextColor={COLORS.textMuted}
           value={fullName}
           onChangeText={setFullName}

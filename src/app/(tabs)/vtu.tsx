@@ -1,6 +1,6 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
-import { COLORS } from '../../src/styles/theme';
+import { COLORS } from '../../../src/styles/theme';
 
 export default function PlaceholderScreen() {
   return (
